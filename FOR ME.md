@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @trigan23
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Yevgeniy
+- 👀 I’m interested in Volleyboll
 - 🌱 I’m currently learning CSS, HTML, JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm live in Ukraine, Kiev
+
 
 <!---
 trigan23/trigan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
